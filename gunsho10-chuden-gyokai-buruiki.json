@@ -4,7 +4,12 @@
  "repo": "kumoi-no-fumigura/chuden-gyokai-buruiki",
  "yomi": "ちゅうでんぎょかいぶるいき",
  "category": "歌学書",
- "description": null,
+ "description": {
+  "kind": "部類記（記録）",
+  "era": "南北朝期以後",
+  "author": "未詳",
+  "desc": "天喜4年（1056）以来、内裏の清涼殿（中殿）で催された和歌・管絃の御会について、諸家の日記の記事を年代順に集めた部類記。"
+ },
  "editions": [
   {
    "pid": "1879527",
@@ -250,6 +255,6 @@
   "poems": 0,
   "editions": 1,
   "updated": "2026-10-30",
-  "updated_at": "2026-10-30T00:05:03+09:00"
+  "updated_at": "2026-10-30T08:19:37+09:00"
  }
 }
